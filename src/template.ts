@@ -1,5 +1,3 @@
-function templateFunction(x: number) {
-  return x / 2;
+export function highAndLow(val1: string | undefined) {
+  return val1;
 }
-
-export { templateFunction };
